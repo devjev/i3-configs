@@ -1,0 +1,5 @@
+configuration {
+	theme: "/usr/share/rofi/themes/Indego.rasi";
+	terminal: "/usr/bin/alacritty";
+	font: "IBM Plex Mono 18";
+}
